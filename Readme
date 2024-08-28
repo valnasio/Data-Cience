@@ -1,0 +1,20 @@
+Guia de Instalação e Execução do Projeto
+
+Para rodar este projeto, você precisa ter o Python instalado em seu sistema. Além disso, é necessário instalar as seguintes bibliotecas Python, que são essenciais para a execução dos scripts de aprendizado de máquina e análise de dados:
+Passos para Instalação
+
+    
+
+pip install scikit-learn
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install numpy
+
+Estas bibliotecas são essenciais para a execução do projeto:
+
+    scikit-learn: Biblioteca para aprendizado de máquina.
+    pandas: Biblioteca para manipulação e análise de dados.
+    matplotlib: Biblioteca para criação de gráficos e visualizações.
+    seaborn: Biblioteca para visualizações estatísticas baseadas em matplotlib.
+    numpy: Biblioteca para operações numéricas e manipulação de arrays.
